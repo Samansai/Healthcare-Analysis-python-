@@ -1,9 +1,48 @@
-**Findings**
-1. Female patients have taken more appointments then male patients
-2. Ratio of Nohow and Show is almost equal for age group except Age 0 and Age 1 with 80% show rate for each age group
-3. Each Neighbourhood have almost 80% show rate
-4. There are 99666 patients without Scholarship and out of them around 80% have come for the visit and out of the 21801 patients with Scholarship around 75% of them have come for the visit.
-5. there are around 88,726 patients without Hypertension and out of them around 78% have come for the visit and Out of the 21801 patients with Hypertension around 85% of them have come for the visit.
-6. there are around 102,584 patients without Diabetes and out of them around 80% have come for the visit and Out of the 7,943 patients with Diabetes around 83% of them have come for the visit.
-7. there are around 75,045 patients who have not received SMS and out of them around 84% have come for the visit and out of the 35,482 patients who have received SMS around 72% of them have come for the visit. 
-8. there is no appointments on sunday and on saturday appointments are very less in comparision to other week days
+# Medical Appointment Analysis
+
+This repository contains the analysis of patient data for medical appointments, focusing on factors influencing attendance rates (Show vs. No-show). Below are the key insights derived from the data:
+
+## Key Findings
+
+1. **Gender Distribution**  
+   - Female patients have taken more appointments compared to male patients.
+
+2. **Age Group Attendance**  
+   - Across all age groups, the ratio of "No-show" to "Show" is nearly equal.  
+   - Notable exceptions are Age 0 and Age 1, with a high **80% Show rate** for both groups.
+
+3. **Neighbourhood Attendance**  
+   - Patients from all neighbourhoods exhibit an **average 80% Show rate**.
+
+4. **Impact of Scholarship**  
+   - **Patients without scholarships**: 99,666 patients, **80% Show rate**.  
+   - **Patients with scholarships**: 21,801 patients, **75% Show rate**.
+
+5. **Impact of Hypertension**  
+   - **Patients without hypertension**: 88,726 patients, **78% Show rate**.  
+   - **Patients with hypertension**: 21,801 patients, **85% Show rate**.
+
+6. **Impact of Diabetes**  
+   - **Patients without diabetes**: 102,584 patients, **80% Show rate**.  
+   - **Patients with diabetes**: 7,943 patients, **83% Show rate**.
+
+7. **Impact of SMS Reminders**  
+   - **Patients who did not receive SMS reminders**: 75,045 patients, **84% Show rate**.  
+   - **Patients who received SMS reminders**: 35,482 patients, **72% Show rate**.
+
+8. **Appointment Distribution by Day of the Week**  
+   - No appointments are scheduled on Sundays.  
+   - Saturdays have significantly fewer appointments compared to other weekdays.
+
+## Repository Contents
+
+- **Data Analysis Notebook**: Contains the code and detailed step-by-step analysis.  
+- **Visualizations**: Charts and graphs showcasing the trends and comparisons.  
+- **Insights Report**: Summary of findings and actionable recommendations.
+
+## Usage
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/medical-appointment-analysis.git
+
