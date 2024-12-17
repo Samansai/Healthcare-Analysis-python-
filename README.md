@@ -1,4 +1,4 @@
-# Medical Appointment Analysis
+# Healthcare Analysis
 
 This repository contains the analysis of patient data for medical appointments, focusing on factors influencing attendance rates (Show vs. No-show). Below are the key insights derived from the data:
 
